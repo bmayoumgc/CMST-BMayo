@@ -6,11 +6,12 @@ on:
 jobs:
   build-and-deploy:
     runs-on: windows-latest
-     steps:
-    - uses: actions/checkout@master
+    steps:
+     
+    - uses: actions/checkout@main
     - name: Deploy to Azure Web App
       uses: azure/webapps-deploy@v1
       with:
-        app-name: 'CMST-bmayo'
+        app-name: 'CMST385-bmayo'
         slot-name: 'production'
         publish-profile: ${{ secrets.AppServiceCMST385 }}
