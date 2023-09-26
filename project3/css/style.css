@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 1000px;
+}
+ h1 {
+   color: blue;
+   font-size: 70px;
+   margin: 0px;
+   text-align: center;
+}
+
+.img-carey {
+   width: 1000px; 
+}
+   
+NAV {
+  width: 100%;
+  height: 100px;
+  background-color: black;
+}
+
+ul {
+  margin-left: 700px;
+}
+
+ul li {
+  list-style: none;
+  display: inline-block;
+  float: left;
+  line-height: 100px;
+
+}
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  font-size: 25px;
+  font-family: times new roman;
+  color: #FFD700;
+  padding: 0 20px;
+}
+    
+ul li a:hover {
+  color: green;
+} 
