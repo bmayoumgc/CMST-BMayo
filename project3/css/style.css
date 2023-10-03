@@ -92,12 +92,12 @@ ul li a:hover {
 .footer-style {
   width:100%;
   padding: 60px 0 100px;
-  background-color: gray;
+  background-color: black;
 }
 
 .footer-style-flex {
   display: flex;
   justify-content: center;
-  background-color: gray;
+  background-color: gold;
   
 }
