@@ -1,0 +1,13 @@
+
+.footer-style {
+  width:100%;
+  padding: 60px 0 100px;
+  background-color: gray;
+}
+
+.footer-style-flex {
+  display: flex;
+  justify-content: center;
+  background-color: gray;
+  
+}
