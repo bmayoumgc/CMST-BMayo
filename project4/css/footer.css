@@ -1,7 +1,0 @@
-.footer-sitemap {
-  display: flex;
-  flex-basis: 100px;
-}
-.footer-sitemap ul:nth-child(1){
-  flex-basis: 180px;
-}
