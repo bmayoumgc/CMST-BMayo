@@ -70,13 +70,13 @@ ul li a:hover {
   color: green;
 } 
 
-.body-style {
+.main-style {
 	width: 100%;
    padding: 60px 0 100px;
    background: white
 }
 
-.body-style-flex {
+.main-style-flex {
    display: flex;
    justify-content: center;
    flex-wrap: wrap;
